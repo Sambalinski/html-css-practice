@@ -1,0 +1,15 @@
+.hotdog p {
+	border: 6px solid #949599;
+	border-radius: 5px;
+	height: 10%;
+	width: 50%;
+    font-size: 16px;
+    background: rgba(255, 0, 0, .5);
+}
+.hotdog .mustard {
+	border-radius: 5px;
+	font-size: 18px;
+	width: 15em;
+	height: 1.4em;
+    background: hsl(90, 100%, 25%, .65);
+}
